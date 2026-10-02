@@ -1,4 +1,4 @@
-# Monitoramento de Câmara Fria
+# Monitoramento de Câmara Fria.
 
 Dashboard web para visualização em tempo quase real das temperaturas de uma câmara fria. A página consome uma API REST hospedada na AWS e exibe a última leitura, o status (normal ou atenção) e o histórico de registros.
 
